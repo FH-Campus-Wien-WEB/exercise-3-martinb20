@@ -1,3 +1,4 @@
+
 // Fetch genres and build the navigation buttons
 function loadGenres() {
     const xhr = new XMLHttpRequest();
